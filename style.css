@@ -1,0 +1,123 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp2561072.jpg);
+    background-repeat: no-repeat;
+;
+    height: 100vh;
+    background-size: cover;
+}
+#form{
+    
+   
+}
+
+#name{
+    opacity:0.8;
+    border:2px solid white;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 10px;
+    border-color:rgb(91, 91, 91);
+    margin:10px;
+    background-color:ghostwhite;
+}
+#name:hover{
+    opacity:1;
+}
+#job{
+    opacity:0.8;
+    border-style:none;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 10px;
+    border-color:rgb(91, 91, 91);
+    margin:10px; 
+}
+#job:hover{
+    opacity:1;
+}
+#experiance{
+    opacity:0.8;
+    border-style:none;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 10px;
+    border-color:rgb(91, 91, 91);
+    margin:10px;
+}
+#experiance:hover{
+    opacity: 1;
+}
+#btn{
+width: 100px;
+height: 30px;
+border-radius: 20px;
+margin-left: 13px;
+background-color: #545459;
+color:#fff;
+border-style: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#btn:hover {
+    background-color:#1740af;
+    transition: 0.5s;
+}
+#rst{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 4px;
+    background-color: #545459; 
+    border-style: none; 
+    color:#fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#rst:hover {
+    background-color:#1740af;
+    transition: 0.5s;
+}
+#table{
+    background-color: #fff;
+    border-radius: 5px;
+    color:#000;
+    font-size: large;
+    padding:10px;
+    
+}
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  #edit{
+    width: 180px;
+height: 40px;
+border-radius: 20px;
+margin-left: 13px;
+background-color: black;
+color:white;
+border-style: none;
+margin: 10px;
+font-size: large;
+  }
+  #remove{
+    width: 180px;
+height: 40px;
+border-radius: 20px;
+margin-left: 13px;
+background-color: black;
+color:white;
+border-style: none;
+margin: 10px;
+font-size: large;
+  }
